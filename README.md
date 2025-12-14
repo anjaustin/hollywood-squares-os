@@ -258,12 +258,12 @@ print(bubble.show_trace(10))
 ## Citation
 
 ```bibtex
-@article{hollywoodsquares2024,
+@article{hollywoodsquares2025,
   title={Hollywood Squares OS: A Coordination Operating System 
          for Verified Compositional Intelligence},
   author={Anonymous},
   journal={arXiv preprint},
-  year={2024}
+  year={2025}
 }
 ```
 
