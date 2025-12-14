@@ -1,0 +1,107 @@
+{
+  "initial_values": [
+    64,
+    25,
+    12,
+    22,
+    11,
+    90,
+    42,
+    7
+  ],
+  "final_values": [
+    7,
+    11,
+    12,
+    22,
+    25,
+    42,
+    64,
+    90
+  ],
+  "cycles": 4,
+  "total_swaps": 18,
+  "total_events": 28,
+  "total_ticks": 508,
+  "messages_delivered": 348,
+  "topology": "line",
+  "num_workers": 8,
+  "sorted": true,
+  "cycle_data": [
+    {
+      "cycle": 0,
+      "values": [
+        64,
+        25,
+        12,
+        22,
+        11,
+        90,
+        42,
+        7
+      ],
+      "sorted": false,
+      "swaps": 0
+    },
+    {
+      "cycle": 1,
+      "values": [
+        25,
+        12,
+        64,
+        11,
+        22,
+        7,
+        90,
+        42
+      ],
+      "sorted": false,
+      "swaps": 5
+    },
+    {
+      "cycle": 2,
+      "values": [
+        12,
+        11,
+        25,
+        7,
+        64,
+        22,
+        42,
+        90
+      ],
+      "sorted": false,
+      "swaps": 11
+    },
+    {
+      "cycle": 3,
+      "values": [
+        11,
+        7,
+        12,
+        22,
+        25,
+        42,
+        64,
+        90
+      ],
+      "sorted": false,
+      "swaps": 17
+    },
+    {
+      "cycle": 4,
+      "values": [
+        7,
+        11,
+        12,
+        22,
+        25,
+        42,
+        64,
+        90
+      ],
+      "sorted": true,
+      "swaps": 18
+    }
+  ]
+}

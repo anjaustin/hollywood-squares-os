@@ -1,0 +1,9 @@
+# Hollywood Squares OS
+# Minimal dependencies - pure Python implementation
+
+# No external dependencies required for core functionality
+# The system is self-contained
+
+# Optional: for running experiments
+# pytest>=7.0.0  # Testing
+# numpy>=1.20.0  # Numerical operations (optional)
